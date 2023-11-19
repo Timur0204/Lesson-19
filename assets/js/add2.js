@@ -2,9 +2,9 @@
    console.log(`Год: ${leapYear}`);
 
    if(leapYear % 4 == 0) {
-    alert('Год высокосный');
-    console.log('Год: высокосный');
+    alert('Год високосный');
+    console.log('Год: високосный');
    } else {
-    alert('Год не высокосный');
-    console.log('Год: не высокосный');
+    alert('Год не високосный');
+    console.log('Год: не високосный');
    }
